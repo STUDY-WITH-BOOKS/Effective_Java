@@ -1,5 +1,14 @@
 # 자바 스터디
 
+## 스터디원
+
+- [cook2421](https://github.com/cook2421)
+- [easymean](https://github.com/easymean)
+- [lsjpjs1](https://github.com/lsjpjs1)
+- [seung-00](https://github.com/seung-00)
+- [startFromBottom](https://github.com/startFromBottom)
+- [yongyongkr](https://github.com/yongyongkr)
+
 ## Rule
 
 - 매주 아이템 6개 분량을 각자 공부해옵니다.
