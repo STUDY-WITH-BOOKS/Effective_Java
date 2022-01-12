@@ -5,7 +5,6 @@
 - [cook2421](https://github.com/cook2421)
 - [easymean](https://github.com/easymean)
 - [lsjpjs1](https://github.com/lsjpjs1)
-- [seung-00](https://github.com/seung-00)
 - [startFromBottom](https://github.com/startFromBottom)
 - [yongyongkr](https://github.com/yongyongkr)
 
